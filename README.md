@@ -27,3 +27,5 @@ I have used Ethiopian Grading System with the grades as follow you can also find
 | 40–44           | D                | 1.0             |
 | Below 40        | F                | 0.0             |
 
+## 📱 Screenshots
+![Main Screen](gpa.JPG)
